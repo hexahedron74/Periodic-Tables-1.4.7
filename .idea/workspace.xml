@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45323dd8-8cd6-49a7-964a-4b786dc51e52" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Setup Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PeriodicTables.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PeriodicTable.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1UQejFcapNJi3KdcRAGWlncW50W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.setup">
+    <configuration name="Periodic-Tables" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="주기율표 프로젝트" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\82104\Desktop\주기율표 프로젝트\PeriodicTables.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="help" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="주기율표 프로젝트" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/help.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="photopd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="주기율표 프로젝트" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/photopd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="주기율표 프로젝트" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/setup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tkinter test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="주기율표 프로젝트" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tkinter test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.setup" />
+        <item itemvalue="Python.Periodic-Tables" />
+        <item itemvalue="Python.photopd" />
+        <item itemvalue="Python.tkinter test" />
+        <item itemvalue="Python.help" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45323dd8-8cd6-49a7-964a-4b786dc51e52" name="Default Changelist" comment="" />
+      <created>1575293380337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575293380337</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="619" y="210" key="FileChooserDialogImpl" timestamp="1581523985922">
+      <screen x="74" y="0" width="1606" height="1050" />
+    </state>
+    <state x="570" y="202" key="FileChooserDialogImpl/0.0.1680.1010/-1920.-21.1920.1040@0.0.1680.1010" timestamp="1576757388920" />
+    <state x="570" y="202" key="FileChooserDialogImpl/0.0.1680.1010/-1920.-32.1920.1040@0.0.1680.1010" timestamp="1576858849022" />
+    <state x="570" y="202" key="FileChooserDialogImpl/0.0.1680.1010/1680.-26.1920.1040@0.0.1680.1010" timestamp="1577464698885" />
+    <state x="619" y="210" key="FileChooserDialogImpl/74.0.1606.1050/1742.-32.1858.1080@74.0.1606.1050" timestamp="1581523985922" />
+    <state x="645" y="398" width="419" height="214" key="Github.CreateGistDialog" timestamp="1576759334097">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="645" y="398" width="419" height="214" key="Github.CreateGistDialog/0.0.1680.1010/-1920.-21.1920.1040@0.0.1680.1010" timestamp="1576759334097" />
+    <state width="1579" height="857" key="GridCell.Tab.0.bottom" timestamp="1582130119026">
+      <screen x="74" y="0" width="1606" height="1050" />
+    </state>
+    <state width="1653" height="3" key="GridCell.Tab.0.bottom/0.0.1680.1010/-1920.-21.1920.1040@0.0.1680.1010" timestamp="1576850564136" />
+    <state width="1653" height="3" key="GridCell.Tab.0.bottom/0.0.1680.1010/-1920.-32.1920.1040@0.0.1680.1010" timestamp="1576858811633" />
+    <state width="1653" height="352" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.-26.1920.1040@0.0.1680.1010" timestamp="1578337614189" />
+    <state width="1579" height="857" key="GridCell.Tab.0.bottom/74.0.1606.1050/1742.-32.1858.1080@74.0.1606.1050" timestamp="1582130119026" />
+    <state width="1579" height="857" key="GridCell.Tab.0.center" timestamp="1582130119026">
+      <screen x="74" y="0" width="1606" height="1050" />
+    </state>
+    <state width="1653" height="3" key="GridCell.Tab.0.center/0.0.1680.1010/-1920.-21.1920.1040@0.0.1680.1010" timestamp="1576850564136" />
+    <state width="1653" height="3" key="GridCell.Tab.0.center/0.0.1680.1010/-1920.-32.1920.1040@0.0.1680.1010" timestamp="1576858811633" />
+    <state width="1653" height="352" key="GridCell.Tab.0.center/0.0.1680.1010/1680.-26.1920.1040@0.0.1680.1010" timestamp="1578337614188" />
+    <state width="1579" height="857" key="GridCell.Tab.0.center/74.0.1606.1050/1742.-32.1858.1080@74.0.1606.1050" timestamp="1582130119026" />
+    <state width="1579" height="857" key="GridCell.Tab.0.left" timestamp="1582130119026">
+      <screen x="74" y="0" width="1606" height="1050" />
+    </state>
+    <state width="1653" height="3" key="GridCell.Tab.0.left/0.0.1680.1010/-1920.-21.1920.1040@0.0.1680.1010" timestamp="1576850564136" />
+    <state width="1653" height="3" key="GridCell.Tab.0.left/0.0.1680.1010/-1920.-32.1920.1040@0.0.1680.1010" timestamp="1576858811632" />
+    <state width="1653" height="352" key="GridCell.Tab.0.left/0.0.1680.1010/1680.-26.1920.1040@0.0.1680.1010" timestamp="1578337614188" />
+    <state width="1579" height="857" key="GridCell.Tab.0.left/74.0.1606.1050/1742.-32.1858.1080@74.0.1606.1050" timestamp="1582130119026" />
+    <state width="1579" height="857" key="GridCell.Tab.0.right" timestamp="1582130119026">
+      <screen x="74" y="0" width="1606" height="1050" />
+    </state>
+    <state width="1653" height="3" key="GridCell.Tab.0.right/0.0.1680.1010/-1920.-21.1920.1040@0.0.1680.1010" timestamp="1576850564136" />
+    <state width="1653" height="3" key="GridCell.Tab.0.right/0.0.1680.1010/-1920.-32.1920.1040@0.0.1680.1010" timestamp="1576858811633" />
+    <state width="1653" height="352" key="GridCell.Tab.0.right/0.0.1680.1010/1680.-26.1920.1040@0.0.1680.1010" timestamp="1578337614188" />
+    <state width="1579" height="857" key="GridCell.Tab.0.right/74.0.1606.1050/1742.-32.1858.1080@74.0.1606.1050" timestamp="1582130119026" />
+    <state x="235" y="61" key="SettingsEditor" timestamp="1577464640595">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="235" y="61" key="SettingsEditor/0.0.1680.1010/-1920.-21.1920.1040@0.0.1680.1010" timestamp="1576764169960" />
+    <state x="235" y="61" key="SettingsEditor/0.0.1680.1010/1680.-26.1920.1040@0.0.1680.1010" timestamp="1577464640595" />
+    <state x="536" y="297" key="com.intellij.ide.util.TipDialog" timestamp="1581517223809">
+      <screen x="74" y="0" width="1606" height="1050" />
+    </state>
+    <state x="483" y="286" key="com.intellij.ide.util.TipDialog/0.0.1680.1010/-1920.-21.1920.1040@0.0.1680.1010" timestamp="1576754612560" />
+    <state x="483" y="286" key="com.intellij.ide.util.TipDialog/0.0.1680.1010/-1920.-32.1920.1040@0.0.1680.1010" timestamp="1576858837649" />
+    <state x="483" y="286" key="com.intellij.ide.util.TipDialog/0.0.1680.1010/1680.-26.1920.1040@0.0.1680.1010" timestamp="1577464687324" />
+    <state x="536" y="297" key="com.intellij.ide.util.TipDialog/74.0.1606.1050/1742.-32.1858.1080@74.0.1606.1050" timestamp="1581517223809" />
+    <state x="419" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1577422285622">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="419" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1680.1010/1680.-26.1920.1040@0.0.1680.1010" timestamp="1577422285622" />
+  </component>
+</project>
